@@ -1,0 +1,6 @@
+Harry Potter,Jk Rowling,25,200,English,5,9/11/2019,7
+Start With Why,Simon Sinek,16,150,Hindi,4.5,12/12/2019,6
+Programming With Python,John Smith,24,160,Gujarati,4,3/9/2017,5
+kandarp,kandarp,9,590,Hindi,4.5, 7/06/2019,9
+dipika,k,56,5987,Hindi,4.3,9/11/2012,8
+Harry Potter,Jk Rowling,28,150,English,5,9/11/2019,5
